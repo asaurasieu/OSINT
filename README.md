@@ -1,2 +1,1 @@
-# Webscraper
-Command line webscraper 
+# OSINT Scripts Python 
