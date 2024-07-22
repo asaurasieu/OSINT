@@ -13,4 +13,8 @@ HZC9pOAKQDpy33Deu9arNWTqCfftXZ_g
 Info de como configurar el API: 
 
 https://www.inoreader.com/developers/api-endpoint
+https://www.inoreader.com/developers/oauth
+https://pipedream.com/apps/inoreader
+https://www.inoreader.com/developers/app-auth
+https://www.inoreader.com/developers/auth
 https://www.inoreader.com/developers/
