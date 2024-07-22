@@ -1,7 +1,16 @@
+
+WEBHOOK SITE: 
+https://webhook.site/e75a7f11-6a58-4983-aa3f-9e4acacc67fc
 https://webhook.site/#!/view/e75a7f11-6a58-4983-aa3f-9e4acacc67fc/a9e8395a-7df9-46e6-a0f8-20f4df827380/1
 
-1000002862
 
+CREDENCIALES: 
+1000002862
 HZC9pOAKQDpy33Deu9arNWTqCfftXZ_g
 
-https://webhook.site/e75a7f11-6a58-4983-aa3f-9e4acacc67fc
+
+
+Info de como configurar el API: 
+
+https://www.inoreader.com/developers/api-endpoint
+https://www.inoreader.com/developers/
