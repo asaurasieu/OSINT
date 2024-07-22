@@ -1,6 +1,8 @@
 import requests 
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+
+
 def extraer_encabezados(url, num_encabezados=20): 
     respuesta = requests.get(url)
     
